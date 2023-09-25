@@ -1,0 +1,21 @@
+.verification-main{
+    display: flex;
+    width: 100%;
+    gap: 100px;
+}
+.verification-left{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.verification-sub{
+    display: flex;
+    flex-direction: row;
+    gap:5px
+}
+
+.verification-right{
+    max-width: 100%;
+}
+
+  

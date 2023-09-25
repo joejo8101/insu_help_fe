@@ -1,0 +1,10 @@
+.file-uploader{
+    margin-left: 50px;
+    width: 20%;
+}
+
+.form-components{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
